@@ -5,3 +5,4 @@
 - Coxinha
 - Pastel de feira
 - Pavê
+- Sorvete
