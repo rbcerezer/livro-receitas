@@ -1,8 +1,7 @@
-# Livro de Receitas
+#### Olá bem vindo ao meu livro de receitas, direto da tradição Benetti
 
-### Olá bem vindo ao meu livro de receitas, direto da tradição Benetti
-
-- Coxinha
-- Pastel de feira
-- Pavê
-- Farofa de Mãe
+* Coxinha
+* Pastel de feira
+* Pavê
+* Farofa de Mãe
+* Sorvete
